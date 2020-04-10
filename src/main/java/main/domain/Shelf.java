@@ -2,6 +2,7 @@ package main.domain;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import main.domain.common.AbstractEntity;
 import org.hibernate.annotations.NotFound;
 import org.hibernate.annotations.NotFoundAction;
 
